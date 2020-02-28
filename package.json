@@ -1,0 +1,26 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.16.4",
+    "mysql": "^2.16.0",
+    "uuid": "^7.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WhitePeachTea/Note-taker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/WhitePeachTea/Note-taker/issues"
+  },
+  "homepage": "https://github.com/WhitePeachTea/Note-taker#readme"
+}
