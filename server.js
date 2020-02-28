@@ -2,7 +2,7 @@ const express = require('express');
 const fs = require ('fs');
 const app = express();
 const path = require('path');
-var port = process.env.port || 3000; 
+var port = process.env.PORT || 3000; 
 const uuidv1 = require('uuid/v1');
 
 app.engine('html', require('ejs').renderFile);
