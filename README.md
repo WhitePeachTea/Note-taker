@@ -11,7 +11,7 @@ https://note-taker2123.herokuapp.com/
 
 Screen shoot
 
-./screenshot/test1.png
+screenshot/test1.png
 
-./screenshot/test2.png
+screenshot/test2.png
 
